@@ -1,4 +1,4 @@
 #import 'js/utility.js'
-#import 'js/loadImpr.js'
+#import 'js/loadCost.js'
 
 loadText();

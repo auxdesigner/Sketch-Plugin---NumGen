@@ -1,5 +1,4 @@
 #import 'js/utility.js'
-#import 'js/loadText.js'
-#import 'data/clicks.json'
+#import 'js/loadClicks.js'
 
-loadText(data);
+loadText();

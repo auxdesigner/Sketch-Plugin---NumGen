@@ -2,5 +2,5 @@
     "name": "NumGen",
     "description": "Generate random numbers that are CTR, clicks, costs, and impr.",
     "author": "Liu Liu",
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
