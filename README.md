@@ -7,6 +7,8 @@ This plugin generates random formatted numbers. For now it includes CTR, clicks,
 
 ![alt tag](https://raw.githubusercontent.com/auxdesigner/Sketch-Plugin---NumGen/master/demo.gif)
 
+[Updates on 10/30/2015] 
+Updated code to support Sketch 3.4
 
 [Updates on 09/24/2015] 
 - I merged this plugin into the more extensive Content Generator plugin: https://github.com/timuric/Content-generator-sketch-plugin
