@@ -12,5 +12,6 @@ When you work with repetitive data, (e.g. data table), if you simply copy and pa
 
 This plugin generates random formatted numbers. For now it includes CTR, clicks, costs, Impr. But you can modify the js files to include whatever kind of number you need.
 
-![alt tag](https://raw.githubusercontent.com/auxdesigner/Sketch-Plugin---NumGen/master/demo.gif)
+<img src="https://raw.githubusercontent.com/auxdesigner/Sketch-Plugin---NumGen/master/demo.gif" width="324">
+
 
